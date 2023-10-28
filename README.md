@@ -7,17 +7,17 @@
 ```
 ```math
 \ce{^{87}_{38}Sr (t) -> ^{87}_{38}Sr (0) + ^{87}_{37}Rb (\mathrm{e}^{\lambda t}  - 1)} 
-\\
-\\
+```
+```math
 \ce{\lambda} being the decay constant for Rubidium
-\\
-\\
+```
+```math
 \ce{\lambda = 1.42 * 10^11} years
-\\
-\\
+```
+```math
 The amount of \ce{^{86}_{38}Sr} is constant since it's a stable isotope, therefore:
-\\
-\\
+```
+```math
 $\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}$ \ce{->} $\left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0$ \ce{+} $\cfrac{^{87}_{37}Rb}{^{86}_{38}Sr}$ \ce{(\mathrm{e}^{\lambda t}  - 1)}
 
 ```
