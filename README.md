@@ -19,12 +19,13 @@
 ```math
 \ce{\lambda = 1.42 * 10^11} years
 ```
+
 <p align="center">
 <strong> The amount of $\ce{^{86}_{38}Sr}$ is constant since it's a stable isotope, therefore: </strong>
   </p>
 
 ```math
-$\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}$ \ce{->} $\left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0$ \ce{+} $\cfrac{^{87}_{37}Rb}{^{86}_{38}Sr}$ \ce{(\mathrm{e}^{\lambda t}  - 1)}
+\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{->} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0 \ce{+} \cfrac{^{87}_{37}Rb}{^{86}_{38}Sr} \ce{(\mathrm{e}^{\lambda t}  - 1)}
 ```
 
 <p align="center">
