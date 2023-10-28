@@ -1,8 +1,9 @@
 # JEO495-radiometric-dating
 
 <p align="center">
-**Decay of Rubidium to Strontium**
+<strong> Decay of Rubidium to Strontium </strong>
   </p>
+  
 ```math
 \ce{^{87}_{37}Rb -> ^{87}_{38}Sr + e^- + \bar{\nu}_e}
 ```
@@ -12,7 +13,7 @@
 ```
 
 <p align="center">
-$\ce{\lambda}$ **being the decay constant for Rubidium**
+<strong> $\ce{\lambda}$ **being the decay constant for Rubidium** </strong>
   </p>
 
 ```math
