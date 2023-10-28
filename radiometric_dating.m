@@ -10,7 +10,7 @@ m = p(1);
 t = log(m + 1) * l;  % Rb/Sr age of the sample
 
 fprintf('Slope (m) = %f\n', m); % slope
-fprintf('age (t) = %f\n', t);   % age
+fprintf('age (t) = %e\n', t);   % age
 
 plot(x,y,'o',x,f,'-')
 legend('data','linear fit')
