@@ -13,14 +13,14 @@
 ```
 
 <p align="center">
-<strong> $\ce{\lambda}$ **being the decay constant for Rubidium** </strong>
+<strong> $\ce{\lambda}$ being the decay constant for Rubidium </strong>
   </p>
 
 ```math
 \ce{\lambda = 1.42 * 10^11} years
 ```
 <p align="center">
-**The amount of** $\ce{^{86}_{38}Sr}$ **is constant since it's a stable isotope, therefore:**
+<strong> The amount of** $\ce{^{86}_{38}Sr}$ **is constant since it's a stable isotope, therefore: </strong>
   </p>
 
 ```math
