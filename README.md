@@ -20,7 +20,7 @@
 \ce{\lambda = 1.42 * 10^11} years
 ```
 <p align="center">
-<strong> The amount of** $\ce{^{86}_{38}Sr}$ **is constant since it's a stable isotope, therefore: </strong>
+<strong> The amount of $\ce{^{86}_{38}Sr}$ is constant since it's a stable isotope, therefore: </strong>
   </p>
 
 ```math
