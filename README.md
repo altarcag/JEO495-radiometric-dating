@@ -4,8 +4,8 @@
 **Decay of Rubidium to Strontium**
 ```math
 \ce{^{87}_{37}Rb -> ^{87}_{38}Sr + e^- + \bar{\nu}_e}
-\\
-\\
+```
+```math
 \ce{^{87}_{38}Sr (t) -> ^{87}_{38}Sr (0) + ^{87}_{37}Rb (\mathrm{e}^{\lambda t}  - 1)} 
 \\
 \\
