@@ -2,7 +2,7 @@
 
 <p align="center">
 **Decay of Rubidium to Strontium**
-</p>
+  </p>
 ```math
 \ce{^{87}_{37}Rb -> ^{87}_{38}Sr + e^- + \bar{\nu}_e}
 ```
@@ -13,14 +13,14 @@
 
 <p align="center">
 $\ce{\lambda}$ **being the decay constant for Rubidium**
-</p>
+  </p>
 
 ```math
 \ce{\lambda = 1.42 * 10^11} years
 ```
 <p align="center">
 **The amount of** $\ce{^{86}_{38}Sr}$ **is constant since it's a stable isotope, therefore:**
-</p>
+  </p>
 
 ```math
 $\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}$ \ce{->} $\left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0$ \ce{+} $\cfrac{^{87}_{37}Rb}{^{86}_{38}Sr}$ \ce{(\mathrm{e}^{\lambda t}  - 1)}
