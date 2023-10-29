@@ -13,7 +13,7 @@
 ```
 
 <p align="center">
-<strong> $\ce{\lambda}$ being the decay constant for Rubidium </strong>
+<strong> $\ce{\lambda}$ stands for the decay constant for Rubidium </strong>
   </p>
 
 ```math
