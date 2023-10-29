@@ -9,7 +9,7 @@
 ```
 
 ```math
-\ce{^{87}_{38}Sr (t) -> ^{87}_{38}Sr (0) + ^{87}_{37}Rb (\mathrm{e}^{\lambda t}  - 1)} 
+\ce{^{87}_{38}Sr (t) = ^{87}_{38}Sr (0) + ^{87}_{37}Rb (\mathrm{e}^{\lambda t}  - 1)} 
 ```
 
 <p align="center">
@@ -25,7 +25,7 @@
   </p>
 
 ```math
-\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{->} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0 \ce{+} \cfrac{^{87}_{37}Rb}{^{86}_{38}Sr} \ce{(\mathrm{e}^{\lambda t}  - 1)}
+\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{=} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0 \ce{+} \cfrac{^{87}_{37}Rb}{^{86}_{38}Sr} \ce{(\mathrm{e}^{\lambda t}  - 1)}
 ```
 
 <p align="center">
