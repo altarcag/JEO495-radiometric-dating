@@ -17,7 +17,7 @@
   </p>
 
 ```math
-\ce{\lambda = 1.42 * 10^-11} years
+\ce{\lambda = 1.42 * 10^{-11}} years
 ```
 
 <p align="center">
