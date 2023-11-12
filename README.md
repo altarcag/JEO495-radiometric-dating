@@ -13,11 +13,11 @@
 ```
 
 <p align="center">
-<strong> $\ce{\lambda}$ stands for the decay constant for Rubidium </strong>
+<strong> $\ce{\lambda}$ stands for the decay constant for Rubidium (Steiger and Jager, 1977) </strong>
   </p>
 
 ```math
-\ce{\lambda = 1.42 * 10^{-11}} years
+\ce{\lambda = 1.42 * 10^{-11}} years^-1
 ```
 
 <p align="center">
