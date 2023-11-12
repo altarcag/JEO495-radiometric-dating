@@ -1,5 +1,5 @@
 clc; clear;
-dataset = xlsread('./sample_1.xlsx');
+dataset = xlsread('./sample_2.xlsx');
 x = dataset(:,1);
 y = dataset(:,2);
 num_data_x = length(x);
@@ -8,8 +8,6 @@ num_data_y = length(y);
 if num_data_x ~= num_data_y
     error('quantity of each column x and y do not match');
 end
-
-fprintf('Number of data points N = %d\n', num_data_x)
 
 l = 10^11 / 1.42;    % lambda value for Rubidium
 N = num_data_x;
