@@ -36,7 +36,7 @@ t = \cfrac{1}{\lambda} \ln{(\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \le
 ```
 
 <p align="center">
-<strong> Here, $\ce{\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0}{^{87}_{37}Rb \ce{/} ^{86}_{38}Sr}}$ can be defined as the slope denoted with m, so: </strong>
+<strong> Here, $\ce{\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0}{^{87}_{37}Rb \ce{/} ^{86}_{38}Sr}}$ can be treated as the slope denoted with m, so: </strong>
   </p>
 
 ```math
