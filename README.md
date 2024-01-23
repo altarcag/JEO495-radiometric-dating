@@ -49,4 +49,5 @@ t = \cfrac{1}{\lambda} \ln{(m \ce{+} 1)}
 
 
 I will also add the U-Th-Pb series here later on.
+
 Course Instructor: Dr. Biltan Kurkcuoglu
