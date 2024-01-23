@@ -29,7 +29,7 @@
 ```
 
 ```math
-\ln{\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0}{^{87}_{37}Rb \ce{/} ^{86}_{38}Sr} \ce{+} 1}
+\cfrac{1}{\lambda} \ln{(\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0}{^{87}_{37}Rb \ce{/} ^{86}_{38}Sr} \ce{+} 1)}
 ```
 
 <p align="center">
