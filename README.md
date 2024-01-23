@@ -27,9 +27,12 @@
 ```math
 \cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{=} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0 \ce{+} \cfrac{^{87}_{37}Rb}{^{86}_{38}Sr} \ce{(\mathrm{e}^{\lambda t}  - 1)}
 ```
+<p align="center">
+<strong> Thus, t (age) can be defined as: </strong>
+  </p>
 
 ```math
-\cfrac{1}{\lambda} \ln{(\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0}{^{87}_{37}Rb \ce{/} ^{86}_{38}Sr} \ce{+} 1)}
+t = \cfrac{1}{\lambda} \ln{(\cfrac{\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr} \ce{-} \left(\cfrac{^{87}_{38}Sr}{^{86}_{38}Sr}\right)_0}{^{87}_{37}Rb \ce{/} ^{86}_{38}Sr} \ce{+} 1)}
 ```
 
 <p align="center">
